@@ -1,0 +1,14 @@
+Projeto de app mobile - Amostra
+Aluno: Sérgio Laurentino de Melo
+O aplicativo “Amostra” tem como público-alvo, pesquisadores e estatísticos que necessitam
+calcular tamanho de amostras para pequenas populações, isto é, menor ou igual a 100 mil
+habitantes, e para populações maiores que 100 mil habitantes. O usuário tera a opção de entrar com
+um tamanho N livre ou escolher a população residente de um município brasileiro, acessando os
+dados remotos do Instituto Brasileiro de Geografia e Estatística – IBGE, pelo aplicativo.
+O usuário tera duas opções:
+◦ Informando o tamanho da população ou código do município, margem de erro, e o grau
+de confiança 90%, 95% ou 99%, obtendo o tamanho da amostra;
+◦ Informando o tamanho da população ou código do município, tamanho da amostra e o
+grau de confiança, obtendo assim a margem de erro para + ou - correspondente.
+A segunda opção é necessária pelo motivo de que muitos pesquisadores, escolhem o
+tamanho da amostra limitado aos recursos disponível para a pesquisa de campo.
